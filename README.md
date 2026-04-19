@@ -3,12 +3,12 @@
 ---
 
 ## 📌 Objective
-The objective of this project is to perform sentiment analysis on tweets related to the topic **“AI replacing jobs”** using machine learning techniques. The aim is to classify tweets into positive, negative, or neutral sentiments and evaluate model performance using precision and recall.
+The objective of this assignment is to perform sentiment analysis on tweets related to the topic **“AI replacing jobs”** using machine learning techniques. The aim is to classify tweets into positive, negative, or neutral sentiments and evaluate model performance using precision and recall.
 
 ---
 
 ## 📌 Introduction
-The topic chosen for this project is **“AI replacing jobs”**, which is highly relevant in today’s technological era. With the rapid growth of artificial intelligence, there is increasing debate about its impact on employment. Some people believe AI will create new opportunities, while others fear job losses, making it a suitable topic for sentiment analysis.
+The topic chosen for this assignment is **“AI replacing jobs”**, which is highly relevant in today’s technological era. With the rapid growth of artificial intelligence, there is increasing debate about its impact on employment. Some people believe AI will create new opportunities, while others fear job losses, making it a suitable topic for sentiment analysis.
 
 ---
 
